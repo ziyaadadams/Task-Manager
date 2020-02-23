@@ -1,0 +1,6 @@
+Total number of users: 2
+Total number of tasks: 0
+Total number of tasks for: admin - 3
+Total percentage of task that have been completed for: admin - 0
+Total percentage of task that must still be completed for: admin - 100
+Total number of tasks for: zee - 0
